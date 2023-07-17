@@ -1,4 +1,4 @@
-# CS231_Sudoku-Solver
+# Sudoku-Solver
 
 A a stack-based sudoku solver for the game that implements a depth-first search algorithm.
 
